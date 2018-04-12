@@ -1,2 +1,4 @@
 # hello-world
-Móje pierwsze repozytorium
+Moje pierwsze repozytorium
+
+I just learning how to operate that fabulous platform
